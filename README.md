@@ -1,2 +1,2 @@
 # ComputerViision
-basic algorithms of computer vision
+some problems of computer vision
