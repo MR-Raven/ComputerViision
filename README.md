@@ -1,2 +1,2 @@
 # ComputerViision
-some problems of computer vision
+Tasks solved during my summer university project
